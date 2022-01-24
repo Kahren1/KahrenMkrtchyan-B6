@@ -21,7 +21,7 @@ public class CozaLozaWoza {
 		 * 
 		 */
 		
-		for(int i=1;i<=36; i++) {
+		for (int i=1;i<=36; i++) {
 			if(i%3==0)
 				System.out.println("Coza");
 			if(i%5==0)
