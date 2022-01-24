@@ -41,7 +41,7 @@ public class HomeworkQ4 {
 				sumEven3+=y;
 			}
 			y++;
-		}while(y<=20);
+		} while(y<=20);
 		
 		System.out.println("Sum of odd nums - do while loop: "+sumOdd3);
 		System.out.println("Sum of odd nums - do while loop: "+sumEven3);

@@ -29,7 +29,7 @@ public class HomeworkQ3 {
 		int sum3 = 0;
 		int divisor3 = 0;
 
-		do {
+		do  {
 			sum3 += y;
 			y++;
 			divisor3++;
