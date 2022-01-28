@@ -1,4 +1,4 @@
-package com.noorteck.java.hw8;
+package com.noorteck.java.hw08;
 
 
 
