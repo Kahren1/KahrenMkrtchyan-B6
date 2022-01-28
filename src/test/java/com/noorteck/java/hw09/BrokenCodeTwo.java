@@ -1,4 +1,4 @@
-package com.noorteck.java.hw9;
+package com.noorteck.java.hw09;
 
 public class BrokenCodeTwo {
 
