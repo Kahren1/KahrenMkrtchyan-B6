@@ -1,6 +1,8 @@
 package com.noorteck.java.hw15;
 
 public class StaticRecapTwo {
+	
+	
 
 	// static method
 	public static void getInfo() {
